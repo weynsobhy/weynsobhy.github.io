@@ -7,13 +7,16 @@
         "no": "123400000",
         "jenis_pajak":{
             "kode_rekening" : 41101,
+            "percent":10,
             "jenis" : "Pajak Hotel",
             "alamat" : "Hotel XYZ, JL Mutakhir IV No.30 KAV 20"
+            
         }
       },{
         "no": "123456789",
         "jenis_pajak":{
             "kode_rekening" : 41103,
+            "percent":10,
             "jenis" : "Pajak Hiburan",
             "alamat" : "Pameran Seni, JL Dumai IV No.32 KAV 80"
         }
@@ -27,6 +30,7 @@
           "no": "123411111",
           "jenis_pajak":{
               "kode_rekening" : 41104,
+              "percent":25,
               "jenis" : "Pajak Reklame",
               "alamat" : "JL Pengudara IV No.45 KAV 20"
           }
@@ -40,6 +44,7 @@
           "no": "123422222",
           "jenis_pajak":{
               "kode_rekening" : 41111,
+              "percent":10,
               "jenis" : "Pajak Bumi dan Bangunan",
               "alamat" : "JL Pengendali IV No.3 KAV 20"
           }
@@ -47,6 +52,7 @@
           "no": "333322222",
           "jenis_pajak":{
               "kode_rekening" : 41106,
+              "percent":10,
               "jenis" : "Pajak Mineral Bukan Logam dan Bebatuan",
               "alamat" : "JL Kemunduran No.10 KAV 20"
           }
