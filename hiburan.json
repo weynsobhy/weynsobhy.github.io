@@ -1,61 +1,97 @@
 [
     {
         "id":1,
+        "kodeRekening":"41103",
+        "jenis":"Pajak hiburan",
+        "alamat":"JL Pengendali Udara",
         "value":"Tontonan Film ",
         "percent":10
     },
     {
         "id":2,
+        "kodeRekening":"41103",
+        "jenis":"Pajak hiburan",
+        "alamat":"JL Pengendali Angin",
         "value":"Pagelaran Kesenian Modern, tradisional dan/atau busana",
         "percent":5
     },
     {
         "id":3,
+        "kodeRekening":"41103",
+        "jenis":"Pajak hiburan",
+        "alamat":"JL Pengendali Tanah",
         "value": "Pagelaran Musik dan/atau Tari modern",
         "percent":10
     },
     {
         "id":4,
+        "kodeRekening":"41103",
+        "jenis":"Pajak hiburan",
+        "alamat":"JL Pengendali Batu",
         "value":"Kontes Kecantikan, binaraga atau sejenisnya",
         "percent":10
     },
     {
         "id":5,
+        "kodeRekening":"41103",
+        "jenis":"Pajak hiburan",
+        "alamat":"JL Pengendali Daun",
         "value": "Pameran",
         "percent":5
     },
     {
         "id":6,
+        "kodeRekening":"41103",
+        "jenis":"Pajak hiburan",
+        "alamat":"JL Pengendali Air",
         "value":  "Karoke",
         "percent":30
     },
     {
         "id":7,
+        "kodeRekening":"41103",
+        "jenis":"Pajak hiburan",
+        "alamat":"JL Pengendali Malam",
         "value": "Diskotik, club malam dan sejenisnya\n",
         "percent":35
     },
     {
         "id":8,
+        "kodeRekening":"41103",
+        "jenis":"Pajak hiburan",
+        "alamat":"JL Pengendali Pagi",
         "value":"Sirkus, Akrobat dan Sulap",
         "percent":5
     },
     {
         "id":9,
+        "kodeRekening":"41103",
+        "jenis":"Pajak hiburan",
+        "alamat":"JL Pengendali Siang",
         "value":"Permainan bilyard",
         "percent":20
     },
     {
         "id":10,
+        "kodeRekening":"41103",
+        "jenis":"Pajak hiburan",
+        "alamat":"JL Pengendali Sore",
         "value": "Golf & Bolling",
         "percent":15
     },
     {
         "id":11,
+        "kodeRekening":"41103",
+        "jenis":"Pajak hiburan",
+        "alamat":"JL Pengendali hampa",
         "value": "Pacuan Kuda, Kendaraan Bermotor, permainan ketangkasan",
         "percent":15
     },
     {
         "id":12,
+        "kodeRekening":"41103",
+        "jenis":"Pajak hiburan",
+        "alamat":"JL Pengendali kosong",
         "value":"Panti pijat, refleksi, mandi uap/spa, pusat kebugaran",
         "percent":20
     }
