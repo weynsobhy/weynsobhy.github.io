@@ -12,7 +12,8 @@
             "alamat" : "Hotel XYZ, JL Mutakhir IV No.30 KAV 20"
             
         }
-      },{
+      },
+      {
         "no": "123456789",
         "jenis_pajak":{
             "kode_rekening" : 41103,
