@@ -50,7 +50,7 @@
               "alamat" : "JL Pengendali IV No.3 KAV 20"
           }
         },{
-          "no": "333322222",
+          "no": "333322222", 
           "jenis_pajak":{
               "kode_rekening" : 41106,
               "percent":10,

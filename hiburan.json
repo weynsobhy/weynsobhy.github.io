@@ -94,5 +94,38 @@
         "alamat":"JL Pengendali kosong",
         "value":"Panti pijat, refleksi, mandi uap/spa, pusat kebugaran",
         "percent":20
+    },
+    {
+        "id":13,
+        "kodeRekening":"41101",
+        "jenis":"Pajak Hotel",
+        "alamat":"JL Pengendali kosong",
+        "value":"Hotel XYZ, JL Mutakhir IV No.30 KAV 20",
+        "percent":10
+    },
+    {
+        "id":14,
+        "kodeRekening":"41104",
+        "jenis":"Pajak reklame",
+        "alamat":"JL Pengudara IV No.45 KAV 20",
+        "value":"Panti pijat, refleksi, mandi uap/spa, pusat kebugaran",
+        "percent":25
+    },
+    {
+        "id":15,
+        "kodeRekening":"41111",
+        "jenis":"Pajak Bumi dan Bangunan",
+        "alamat":"JL Pengendali kosong",
+        "value":"Pajak Bumi dan Bangunan",
+        "percent":20
+    },
+    {
+        "id":16,
+        "kodeRekening":"41106",
+        "jenis":"Pajak Mineral Bukan Logam dan Bebatuan",
+        "alamat":"JL Pengendali kosong",
+        "value":"Pajak Mineral Bukan Logam dan Bebatuan",
+        "percent":20
     }
+
 ]

@@ -2,26 +2,31 @@
     {
         "id": 1,
         "idUser": 1,
+        "kodePajak":"41101",
         "noNpwpd":"123400000"
     },
     {
         "id": 2,
         "idUser": 1,
+        "kodePajak":"41103",
         "noNpwpd":"123456789"
     },
     {
         "id": 3,
         "idUser": 2,
+        "kodePajak":"41104",
         "noNpwpd":"123411111"
     },
     {
         "id": 4,
         "idUser": 3,
+        "kodePajak":"41111",
         "noNpwpd":"123422222"
     },
     {
         "id": 5,
         "idUser": 3,
+        "kodePajak":"41106",
         "noNpwpd":"333322222"
     }
 
