@@ -1,0 +1,69 @@
+[
+    {
+        "id":1,
+        "provinsi":"Jawa Timur",
+        "kota":[
+            {
+                "idKota":1,
+                "namaKota":"Pamekasan",
+                "pesantren":[
+                    {
+                        "namaPesantren":"Pondok Pesantren Mambaul Ulum Bata-Bata",
+                        "namaKyai":"RKH. Abd. Hamid bin Ahmad Mahfud"
+                    }
+                ]
+            },
+            {
+                "idKota":2,
+                "namaKota":"Sumenep",
+                "pesantren":[
+                    {
+                        "namaPesantren":"Pondok Pesantren Al-Amien Prenduan",
+                        "namaKyai":"KH. Dr. Ahmad Muhammad Tidjani, MA.,"
+                    }
+                ]
+            },
+            {
+                "idKota":3,
+                "namaKota":"Guluk-guluk",
+                "pesantren":[
+                    {
+                        "namaPesantren":"Pondok Pesantren Annuqayah",
+                        "namaKyai":"KH. Ahmad Basyir AS."
+                    }
+                ]
+            },
+            {
+                "idKota":4,
+                "namaKota":"Pasuruan",
+                "pesantren":[
+                    {
+                        "namaPesantren":"Pondok Pesantren Sidogiri",
+                        "namaKyai":"KH. Ahmad Nawawi Abdul Jalil"
+                    }
+                ]
+            },
+            {
+                "idKota":5,
+                "namaKota":"Sitobondo",
+                "pesantren":[
+                    {
+                        "namaPesantren":"Pondok Pesantren Salafiyah Syafi’iyah",
+                        "namaKyai":"KHR. Ach. Azaim Ibrahimy"
+                    }
+                ]
+            },
+            {
+                "idKota":6,
+                "namaKota":"Ponorogo",
+                "pesantren":[
+                    {
+                        "namaPesantren":"Pondok Modern Darussalam Gontor",
+                        "namaKyai":"K.H. Syamsul Hadi Abdan"
+                    }
+                ]
+            }
+
+        ]
+    }
+]
