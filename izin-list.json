@@ -1,0 +1,45 @@
+{
+    "success": true,
+    "data": {
+        "list_permit_attendance": [
+            {
+                "id": "47841440-d8b6-4b3b-8453-09eb4281b40d",
+                "nip": "3",
+                "start_date": "Selasa, 10 Januari 2023",
+                "end_date": "Sabtu, 20 Mei 2023",
+                "permit_type_id": "12324305-06e7-42a8-afe9-dd8afdff00b1",
+                "permit_type_name": "Sakit",
+                "note": "sakit edit",
+                "document_url": "",
+                "is_approve": false,
+                "tenant_id": "1",
+                "status_id": "722885b5-6a79-4044-be0a-7bb248698c71",
+                "status_name": "Disetujui",
+                "created_at": "2023-09-12 15:20:19",
+                "updated_at": "2023-09-12 15:26:47"
+            },
+            {
+                "id": "c6311134-ad87-4502-832a-4e2b28d1ff34",
+                "nip": "1",
+                "start_date": "Selasa, 05 September 2023",
+                "end_date": "Jumat, 08 September 2023",
+                "permit_type_id": "12324305-06e7-42a8-afe9-dd8afdff00b1",
+                "permit_type_name": "Sakit",
+                "note": "sakit kepala edit",
+                "document_url": "",
+                "is_approve": false,
+                "tenant_id": "1",
+                "status_id": "238de1e4-a60b-4f90-b987-ee8da6d430e3",
+                "status_name": "Dibatalkan",
+                "created_at": "2023-09-11 13:14:48",
+                "updated_at": "2023-09-12 15:29:56"
+            }
+        ],
+        "metadata": {
+            "page": 1,
+            "page_size": 100,
+            "total_items": 2,
+            "total_pages": 1
+        }
+    }
+}
