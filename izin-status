@@ -1,0 +1,45 @@
+{
+    "success": true,
+    "data": {
+        "list_status": [
+            {
+                "id": "3857fea2-7a06-4cd0-8015-9be6a3e684cd",
+                "code": "REJECT",
+                "name": "Ditolak",
+                "tenant_id": "1",
+                "created_at": "2023-09-11 10:38:35",
+                "updated_at": "2023-09-11 10:38:35"
+            },
+            {
+                "id": "238de1e4-a60b-4f90-b987-ee8da6d430e3",
+                "code": "CANCEL",
+                "name": "Dibatalkan",
+                "tenant_id": "1",
+                "created_at": "2023-09-11 10:38:23",
+                "updated_at": "2023-09-11 10:38:23"
+            },
+            {
+                "id": "722885b5-6a79-4044-be0a-7bb248698c71",
+                "code": "APPROVE",
+                "name": "Disetujui",
+                "tenant_id": "1",
+                "created_at": "2023-09-11 10:38:10",
+                "updated_at": "2023-09-11 10:38:10"
+            },
+            {
+                "id": "ea4f127c-7a3a-48c7-b3c9-443e9eede2d4",
+                "code": "SUBMIT",
+                "name": "Sedang Ditinjau",
+                "tenant_id": "1",
+                "created_at": "2023-09-11 08:59:56",
+                "updated_at": "2023-09-11 10:38:44"
+            }
+        ],
+        "metadata": {
+            "page": 1,
+            "page_size": 10,
+            "total_items": 4,
+            "total_pages": 1
+        }
+    }
+}
