@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "data": {
+        "list_attendance_content": [
+            {
+                "content": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width,initial-scale=1'></head><body><p>Order</p></body></html>",
+                "category": "4"
+            },
+            {
+                "content": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width,initial-scale=1'></head><body><h2><strong>Waktu tap-in standby</strong></h2><p>Pengemudi yang standby diwajibkan melakukan absensi sebanyak 4 kali pada jam-jam tertentu:</p><ul><li>Jam Standby 1 : 03:00 - 07:00</li><li>Jam Standby 2 : 09:00 - 09:30</li><li>Jam Standby 3 : 12:00 - 12:30</li><li>Jam Standby 3 : 12:00 - 13:00 Hari Jumat</li><li>Jam Standby 4 : 16:00 - 16:30</li></ul><h2><strong>Lakukan tap-in secara berurutan</strong></h2><p>Jika tap-in pada jam standby terlewat, jam standby berikutnya akan ditutup dan dibuka hari berikutnya. Pastikan tap-in secara berurutan saat tidak ada Sales Order - SO untuk mendapatkan insentif standby.</p><h2><strong>Tap-in diluar waktu yang ditentukan</strong></h2><p>Pengemudi yang tap-in standby luar waktu yang ditentukan maka terhitung telat dan akan mempengaruhi insentif standby.</p></body></html>",
+                "category": "3"
+            }
+        ]
+    }
+}
