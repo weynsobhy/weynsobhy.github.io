@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": {
+        "categories": [
+            {
+                "category": "Izin Terencana",
+                "permit_types": [
+                    {
+                        "permit_type": "Sakit",
+                        "tenant_id": "123",
+                        "description": "",
+                        "icon_url": "https://storage.googleapis.com/bbone/icon-attendance/1e6f9b30-b53f-45ff-8007-0f966bc70b9a_14092023104603022.png"
+                    }
+                ]
+            },
+            {
+                "category": "Izin Tidak Terencana",
+                "permit_types": [
+                    {
+                        "permit_type": "Musibah",
+                        "tenant_id": "123",
+                        "description": "",
+                        "icon_url": "https://storage.googleapis.com/bbone/icon-attendance/72f4e001-e384-464a-b105-8fa3ad7a9d20_14092023105904116.png"
+                    },
+                    {
+                        "permit_type": "Menikah",
+                        "tenant_id": "123",
+                        "description": "",
+                        "icon_url": "https://storage.googleapis.com/bbone/icon-attendance/f8fb3a0f-e0bd-488c-8cbc-fa950f7d5f8a_14092023110008975.png"
+                    }
+                ]
+            }
+        ]
+    }
+}
